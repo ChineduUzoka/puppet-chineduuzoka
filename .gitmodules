@@ -28,3 +28,6 @@
 [submodule "ntp"]
 	path = ntp
 	url = git@github.com:ChineduUzoka/puppet-ntp
+[submodule "redis"]
+	path = redis
+	url = https://github.com/example42/puppet-redis.git
