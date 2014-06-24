@@ -13,9 +13,6 @@
 [submodule "resolver"]
 	path = resolver
 	url = git@github.com:ChineduUzoka/puppet-resolver
-[submodule "redis"]
-	path = redis
-	url = git@github.com:ChineduUzoka/puppet-redis
 [submodule "php"]
 	path = php
 	url = git@github.com:ChineduUzoka/puppet-php
