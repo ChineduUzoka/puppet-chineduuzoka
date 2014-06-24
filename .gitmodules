@@ -31,3 +31,6 @@
 [submodule "redis"]
 	path = redis
 	url = git@github.com:ChineduUzoka/puppet-redis.git 
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = git@github.com:ChineduUzoka/puppet-rabbitmq.git
