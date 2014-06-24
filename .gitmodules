@@ -1,0 +1,33 @@
+[submodule "puppet"]
+	path = puppet
+	url = git@github.com:ChineduUzoka/puppet-puppet
+[submodule "puppetdb"]
+	path = puppetdb
+	url = git@github.com:ChineduUzoka/puppet-puppetdb
+[submodule "yum"]
+	path = yum
+	url = git@github.com:ChineduUzoka/puppet-yum
+[submodule "ipa"]
+	path = ipa
+	url = git@github.com:ChineduUzoka/puppet-ipa
+[submodule "resolver"]
+	path = resolver
+	url = git@github.com:ChineduUzoka/puppet-resolver
+[submodule "redis"]
+	path = redis
+	url = git@github.com:ChineduUzoka/puppet-redis
+[submodule "php"]
+	path = php
+	url = git@github.com:ChineduUzoka/puppet-php
+[submodule "snmpd"]
+	path = snmpd
+	url = git@github.com:ChineduUzoka/puppet-snmpd
+[submodule "postgresql"]
+	path = postgresql
+	url = git@github.com:ChineduUzoka/puppet-postgresql
+[submodule "icinga"]
+	path = icinga
+	url = git@github.com:ChineduUzoka/puppet-icinga
+[submodule "ntp"]
+	path = ntp
+	url = git@github.com:ChineduUzoka/puppet-ntp
